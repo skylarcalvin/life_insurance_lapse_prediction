@@ -12,3 +12,11 @@ In this repo I develop a machine learning model to predict policy lapse in life 
 
     - generate_life_data.ipynb - contains the generation of synthetic data for the project.
 
+3. SQLite Database
+
+    - The life_data.db file was created by the generate_life_data notebook.
+
+        - tables:
+
+            - life_data: 1 million rows of synthetic life insurance data.
+
