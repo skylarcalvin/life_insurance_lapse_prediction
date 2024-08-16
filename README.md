@@ -11,7 +11,7 @@ In this repo I develop a machine learning model to predict policy lapse in life 
 2. Notebooks
 
     - 01_generate_life_data.ipynb - Contains the generation of synthetic data for the project.
-    - 02_data_carpentry - Contains the preparation of the data for analysis and modeling.
+    - 02_data_carpentry.ipynb - Contains the preparation of the data for analysis and modeling.
 
 3. SQLite Database
 
